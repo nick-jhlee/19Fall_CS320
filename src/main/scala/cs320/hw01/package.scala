@@ -2,25 +2,40 @@ package cs320
 
 package object hw01 extends Homework01 {
   // 1. Primitives (20 pts)
-  def volumeOfCuboid(a: Int, b: Int, c: Int): Int = ???
-  def concat(x: String, y: String): String = ???
+  def volumeOfCuboid(a: Int, b: Int, c: Int): Int = a * b * c
+  def concat(x: String, y: String): String = x.concat(y)
 
   // 2. Function Values (30 pts)
-  def addN(n: Int): Int => Int = ???
-  def twice(f: Int => Int): Int => Int = ???
-  def compose(f: Int => Int, g: Int => Int): Int => Int = ???
+  def addN(n: Int): Int => Int = {
+    def addN_return(x: Int): Int = x + n
+    addN_return
+  }
+  def twice(f: Int => Int): Int => Int = {
+    def twice_return(x: Int): Int = f(f(x))
+    twice_return
+  }
+  def compose(f: Int => Int, g: Int => Int): Int => Int = {
+    def compose_return(x: Int): Int = f(g(x))
+    compose_return
+  }
 
   // 3. Data Structures (50 pts)
   // 3.1. Lists (20 pts)
-  def double(l: List[Int]): List[Int] = ???
-  def sum(l: List[Int]): Int = ???
+  def double(l: List[Int]): List[Int] = l.map(_ * 2)
+  def sum(l: List[Int]): Int = l.sum
 
   // 3.2. Maps (10 pts)
-  def getKey(m: Map[String, Int], s: String): Int = ???
+  def getKey(m: Map[String, Int], s: String): Int = m getOrElse(s, error(s"Error! $s not found!"))
 
   // 3.3. User-defined Structures (20 pts)
-  def countLeaves(t: Tree): Int = ???
-  def flatten(t: Tree): List[Int] = ???
+  def countLeaves(t: Tree): Int = t match {
+    case Branch(t1, n, t2) => countLeaves(t1) + countLeaves(t2)
+    case Leaf(n) => 1
+  }
+  def flatten(t: Tree): List[Int] = t match {
+    case Branch(t1, n, t2) => flatten(t1) ++ List(n) ++ flatten(t2)
+    case Leaf(n) => List(n)
+  }
 
   def tests: Unit = {
     test(concat("abc", "def"), "abcdef")
@@ -48,5 +63,15 @@ package object hw01 extends Homework01 {
     test(flatten(tree), List(1, 2, 3, 4, 5))
 
     /* Write your own tests */
+    // 1. Primitives
+
+    // 2. Function Values
+
+    // 3. Data Structures
+    // 3.1. Lists
+
+    // 3.2. Maps
+
+    // 3.3. User-defined Structures
   }
 }
