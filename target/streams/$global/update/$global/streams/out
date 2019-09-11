@@ -1,4 +1,3 @@
-[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/Nick/OneDrive/KAIST/Courses/CS320/cs320/}cs320...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: plrg.kaist.ac.kr#cs320_2.12;1.0[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -22,7 +21,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.8!scala-library.pom(pom.original) (608ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.8!scala-library.pom(pom.original) (1262ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\Nick\.ivy2\local\org.scala-lang\scala-library\2.12.8\jars\scala-library.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.12.8 in public[0m
@@ -47,7 +46,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0!scala-parser-combinators_2.12.pom(pom.original) (500ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0!scala-parser-combinators_2.12.pom(pom.original) (753ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\Nick\.ivy2\local\org.scala-lang.modules\scala-parser-combinators_2.12\1.1.0\bundles\scala-parser-combinators_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0 in public[0m
@@ -86,7 +85,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.8!scala-reflect.pom(pom.original) (518ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.8!scala-reflect.pom(pom.original) (903ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\Nick\.ivy2\local\org.scala-lang\scala-reflect\2.12.8\jars\scala-reflect.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-reflect;2.12.8 in public[0m
@@ -523,7 +522,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.8!scala-compiler.pom(pom.original) (505ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.8!scala-compiler.pom(pom.original) (786ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\Nick\.ivy2\local\org.scala-lang\scala-compiler\2.12.8\jars\scala-compiler.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-compiler;2.12.8 in public[0m
@@ -607,7 +606,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.pom(pom.original) (496ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.pom(pom.original) (759ms)[0m
 [0m[[0mdebug[0m] [0m		tried C:\Users\Nick\.ivy2\local\org.scala-lang.modules\scala-xml_2.12\1.0.6\bundles\scala-xml_2.12.jar[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in public[0m
@@ -679,7 +678,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.6!jline.pom(pom.original) (614ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.6!jline.pom(pom.original) (1000ms)[0m
 [0m[[0minfo[0m] [0mResolving org.sonatype.oss#oss-parent;9 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;9 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;9[0m
@@ -700,38 +699,38 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.8!scala-library.jar (2023ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.8!scala-library.jar (21818ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.12/1.1.0/scala-parser-combinators_2.12-1.1.0.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0!scala-parser-combinators_2.12.jar(bundle) (737ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-parser-combinators_2.12;1.1.0!scala-parser-combinators_2.12.jar(bundle) (2828ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar (1223ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar (8251ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar (1492ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar (15030ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle) (1294ms)[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle) (2525ms)[0m
 [0m[[0mdebug[0m] [0m		tried https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar[0m
 [0m[[0minfo[0m] [0mdownloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar ...[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.6!jline.jar (689ms)[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5349ms :: artifacts dl 7478ms[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] jline#jline;2.14.6!jline.jar (2183ms)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 9277ms :: artifacts dl 52660ms[0m
 [0m[[0mdebug[0m] [0m	report for plrg.kaist.ac.kr#cs320_2.12;1.0 compile produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\resolution-cache\reports\plrg.kaist.ac.kr-cs320_2.12-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for plrg.kaist.ac.kr#cs320_2.12;1.0 runtime produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\resolution-cache\reports\plrg.kaist.ac.kr-cs320_2.12-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for plrg.kaist.ac.kr#cs320_2.12;1.0 test produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\resolution-cache\reports\plrg.kaist.ac.kr-cs320_2.12-test.xml[0m
@@ -745,5 +744,5 @@
 [0m[[0mdebug[0m] [0m	report for plrg.kaist.ac.kr#cs320_2.12;1.0 docs produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\resolution-cache\reports\plrg.kaist.ac.kr-cs320_2.12-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for plrg.kaist.ac.kr#cs320_2.12;1.0 pom produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\resolution-cache\reports\plrg.kaist.ac.kr-cs320_2.12-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for plrg.kaist.ac.kr#cs320_2.12;1.0 scala-tool produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\resolution-cache\reports\plrg.kaist.ac.kr-cs320_2.12-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (5349ms resolve - 7478ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (9277ms resolve - 52660ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

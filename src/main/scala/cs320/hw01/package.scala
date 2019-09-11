@@ -64,14 +64,62 @@ package object hw01 extends Homework01 {
 
     /* Write your own tests */
     // 1. Primitives
+    test(volumeOfCuboid(1, 2, 3), 6)
+    test(volumeOfCuboid(0, 2, 3), 0)
+    test(volumeOfCuboid(1, 0, 3), 0)
+    test(volumeOfCuboid(1, 2, 0), 0)
+
+    // cases with empty string
+    test(concat("", ""), "")
+    test(concat("", "abc"), "abc")
+    test(concat("abc", ""), "abc")
 
     // 2. Function Values
+    val test_f1: Int => Int = addN(0)
+    val test_f2: Int => Int = addN(1)
+    val test_f3: Int => Int = addN(-1)
+    test(test_f1(0), 0)
+    test(test_f1(1), 1)
+    test(test_f1(-1), -1)
+    test(test_f2(0), 1)
+    test(test_f2(1), 2)
+    test(test_f2(-1), 0)
+    test(test_f2(-2), -1)
+    test(test_f3(0), -1)
+    test(test_f3(1), 0)
+    test(test_f3(2), 1)
+    test(test_f3(-1), -2)
+
+    val twice_f2: Int => Int = twice(test_f2)
+    test(twice_f2(1), 3)
+
+    val compose_f4: Int => Int = compose(test_f2, twice_f2)
+    test(compose_f4(2), 5)
+
+    // test for commutative property
+    val compose_f4_2: Int => Int = compose(twice_f2, test_f2)
+    test(compose_f4(2), compose_f4_2(2))
 
     // 3. Data Structures
     // 3.1. Lists
+    // case with empty list
+    val empty_list: List[Int] = List()
+    test(double(empty_list), List())
+    test(sum(empty_list), 0)
 
     // 3.2. Maps
+    // case with empty map
+    val empty_map: Map[String, Int] = Map()
+    testExc(getKey(empty_map, "CS320"), "CS320")
 
     // 3.3. User-defined Structures
+    val single_Leaf: Tree = Leaf(1)
+    test(countLeaves(single_Leaf), 1)
+    test(flatten(single_Leaf), List(1))
+
+    // case with tree whose nodes are not in an increasing order
+    val weird_tree: Tree = Branch(Leaf(5), 1, Leaf(2))
+    test(countLeaves(weird_tree), 2)
+    test(flatten(weird_tree), List(5, 1, 2))
   }
 }
