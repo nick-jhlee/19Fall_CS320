@@ -58,7 +58,15 @@ package object hw02 extends Homework02 {
     test(run("{+ {1 2} {3 4}}"), List(4, 5, 5, 6))
 
     // 3. Sub(l, r) --> not needed! (because it is logically equivalent to Add)
-    // 4. Complicated expressions containing With, Id
 
+    // 4. Min, Max --> not needed! (because all the logically possible cases have been tested above)
+
+    // 5. Complicated expressions containing With, Id
+    // 5.1 Free identifier error
+    testExc(run("{+ x 2}"), "x is a free identifier!")
+    testExc(run("{with {x 1} y}"), "y is a free identifier!")
+    testExc(run("{with {x 1} {+ y x}}"), "y is a free identifier!")
+
+    // 5.2
   }
 }
