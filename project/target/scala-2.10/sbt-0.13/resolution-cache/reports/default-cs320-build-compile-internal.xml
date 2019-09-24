@@ -9,22 +9,22 @@
 		extra-sbtVersion="0.13"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20190911220534"/>
+		date="20190925024218"/>
 	<dependencies>
 		<module organisation="com.oradian.sbt" name="sbt-sh">
-			<revision name="0.3.0" status="release" pubdate="20170912002653" resolver="sbt-plugin-releases" artresolver="sbt-plugin-releases" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="true" searched="true" default="false" conf="compile, default(compile)" position="1">
+			<revision name="0.3.0" status="release" pubdate="20170912002653" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
 				<license name="Unlicense" url="http://unlicense.org/"/>
-				<metadata-artifact status="successful" details="" size="1469" time="4288" location="C:\Users\Nick\.ivy2\cache\scala_2.10\sbt_0.13\com.oradian.sbt\sbt-sh\ivy-0.3.0.xml" searched="true" original-local-location="C:\Users\Nick\.ivy2\cache\scala_2.10\sbt_0.13\com.oradian.sbt\sbt-sh\ivy-0.3.0.xml.original" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml"/>
+				<metadata-artifact status="no" details="" size="1469" time="0" location="C:\Users\Nick\.ivy2\cache\scala_2.10\sbt_0.13\com.oradian.sbt\sbt-sh\ivy-0.3.0.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml"/>
 				<caller organisation="default" name="cs320-build" conf="compile-internal, compile, provided, optional" rev="0.3.0" rev-constraint-default="0.3.0" rev-constraint-dynamic="0.3.0" callerrev="0.1-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
-					<artifact name="sbt-sh" type="jar" ext="jar" status="successful" details="" size="7155" time="6117" location="C:\Users\Nick\.ivy2\cache\scala_2.10\sbt_0.13\com.oradian.sbt\sbt-sh\jars\sbt-sh-0.3.0.jar">
+					<artifact name="sbt-sh" type="jar" ext="jar" status="no" details="" size="7155" time="0" location="C:\Users\Nick\.ivy2\cache\scala_2.10\sbt_0.13\com.oradian.sbt\sbt-sh\jars\sbt-sh-0.3.0.jar">
 						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/jars/sbt-sh.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
 		</module>
 		<module organisation="org.scala-sbt" name="global-plugins">
-			<revision name="0.0" status="integration" pubdate="20190911220517" resolver="inter-project" artresolver="inter-project" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
+			<revision name="0.0" status="integration" pubdate="20190925024213" resolver="inter-project" artresolver="inter-project" extra-scalaVersion="2.10" extra-sbtVersion="0.13" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
 				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
 				<caller organisation="default" name="cs320-build" conf="compile-internal, compile, provided, optional" rev="0.0" rev-constraint-default="0.0" rev-constraint-dynamic="0.0" callerrev="0.1-SNAPSHOT" extra-scalaVersion="2.10" extra-sbtVersion="0.13"/>
 				<artifacts>
@@ -99,13 +99,13 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-sbt" name="template-resolver">
-			<revision name="0.1" status="release" pubdate="20160822114715" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/sbt/template-resolver" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="50">
+			<revision name="0.1" status="release" pubdate="20160821224715" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/sbt/template-resolver" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="50">
 				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
-				<metadata-artifact status="no" details="" size="2591" time="0" location="C:\Users\Nick\.ivy2\cache\org.scala-sbt\template-resolver\ivy-0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.pom"/>
+				<metadata-artifact status="no" details="" size="2550" time="0" location="C:\Users\Nick\.ivy2\cache\org.scala-sbt\template-resolver\ivy-0.1.xml" searched="false" origin-is-local="false" origin-location="file:/C:/Users/Nick/.sbt/preloaded/org.scala-sbt/template-resolver/0.1/ivys/ivy.xml"/>
 				<caller organisation="org.scala-sbt" name="command" conf="compile" rev="0.1" rev-constraint-default="0.1" rev-constraint-dynamic="0.1" callerrev="0.13.17"/>
 				<artifacts>
 					<artifact name="template-resolver" type="jar" ext="jar" status="no" details="" size="807" time="0" location="C:\Users\Nick\.ivy2\cache\org.scala-sbt\template-resolver\jars\template-resolver-0.1.jar">
-						<origin-location is-local="false" location="file:/C:/Users/Nick/.sbt/preloaded/org/scala-sbt/template-resolver/0.1/template-resolver-0.1.jar"/>
+						<origin-location is-local="false" location="file:/C:/Users/Nick/.sbt/preloaded/org.scala-sbt/template-resolver/0.1/jars/template-resolver.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>
@@ -155,14 +155,14 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-sbt" name="test-interface">
-			<revision name="1.0" status="release" pubdate="20130629074435" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-sbt.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="46">
+			<revision name="1.0" status="release" pubdate="20130628184435" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-sbt.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="46">
 				<license name="BSD" url="https://github.com/sbt/test-interface/blob/master/LICENSE"/>
-				<metadata-artifact status="no" details="" size="2621" time="0" location="C:\Users\Nick\.ivy2\cache\org.scala-sbt\test-interface\ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.pom"/>
+				<metadata-artifact status="no" details="" size="2580" time="0" location="C:\Users\Nick\.ivy2\cache\org.scala-sbt\test-interface\ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="file:/C:/Users/Nick/.sbt/preloaded/org.scala-sbt/test-interface/1.0/ivys/ivy.xml"/>
 				<caller organisation="org.scala-sbt" name="test-agent" conf="compile" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="0.13.17"/>
 				<caller organisation="org.scala-sbt" name="testing" conf="compile" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="0.13.17"/>
 				<artifacts>
 					<artifact name="test-interface" type="jar" ext="jar" status="no" details="" size="14755" time="0" location="C:\Users\Nick\.ivy2\cache\org.scala-sbt\test-interface\jars\test-interface-1.0.jar">
-						<origin-location is-local="false" location="file:/C:/Users/Nick/.sbt/preloaded/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar"/>
+						<origin-location is-local="false" location="file:/C:/Users/Nick/.sbt/preloaded/org.scala-sbt/test-interface/1.0/jars/test-interface.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>

@@ -4,7 +4,7 @@
 		module="cs320-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190911220534"
+		publication="20190925024218"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

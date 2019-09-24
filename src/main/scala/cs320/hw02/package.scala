@@ -48,7 +48,6 @@ package object hw02 extends Homework02 {
 
     /* Write your own tests */
     // 1. Num(n)
-    test(run(""), List())
     test(run("1"), List(1))
     test(run("{1 2}"), List(1, 2))
 
@@ -59,14 +58,36 @@ package object hw02 extends Homework02 {
 
     // 3. Sub(l, r) --> not needed! (because it is logically equivalent to Add)
 
-    // 4. Min, Max --> not needed! (because all the logically possible cases have been tested above)
+    // 4. Min, Max --> not needed! (because Min, Max are logically equivalent,
+    // and all the logically possible cases have been tested above i.e. line 44~47)
 
-    // 5. Complicated expressions containing With, Id
-    // 5.1 Free identifier error
+    // 5. Cases with Nil
+    test(run("{}"), Nil)
+    test(run("{+ 2 {}}"), Nil)
+    test(run("{- 2 {}}"), Nil)
+    test(run("{min 1 {} {2 3}}"), Nil)
+    test(run("{max 1 {} {2 3}}"), Nil)
+
+    // 6. Simple expressions containing With, Id --> not needed! (because the only possible logically-simple case
+    // has already been tested above i.e. line 43)
+
+    // 7. Complicated expressions containing With, Id
+    // 7.1 Some examples from the lecture note
+    test(run("{+ {with {x {+ 1 2}} {+ x x}} {with {x {- 4 3}} {+ x x}}}"), List(8))
+    test(run("{+ {with {x {+ 1 2}} {+ x x}} {with {y {- 4 3}} {+ y y}}}"), List(8))
+    test(run("{with {x {+ 1 2}} {with {x {- 4 3}} {+ x x}}}"), List(2))
+    test(run("{with {x {+ 1 2}} {with {y {- 4 3}} {+ x x}}}"), List(6))
+    test(run("{with {x 1} {with {x 2} x}}"), List(2))
+    test(run("{with {x 1} {+ {with {x 2} x} x}}"), List(3))
+
+    // 7.2 Free identifier error
+    testExc(run("x"), "x is a free identifier!")
     testExc(run("{+ x 2}"), "x is a free identifier!")
     testExc(run("{with {x 1} y}"), "y is a free identifier!")
     testExc(run("{with {x 1} {+ y x}}"), "y is a free identifier!")
 
-    // 5.2
+    // 7.3 Miscellaneous
+    test(run("{with {x {1 2}} {+ x x}}"), List(2, 3, 3, 4))
+    test(run("{max 3 {with {x {1 2}} {+ x x}} {min {1 2} 3 1}}"), List(3, 3, 3, 3, 3, 3, 4, 4))
   }
 }

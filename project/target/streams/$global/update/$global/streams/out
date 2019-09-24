@@ -1,3 +1,4 @@
+[0m[[0minfo[0m] [0mUpdating {file:/C:/Users/Nick/OneDrive/KAIST/Courses/CS320/cs320/project/}cs320-build...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: default#cs320-build;0.1-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -17,20 +18,8 @@
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.10.7 {scala-tool=[default, optional(default)], provided=[default(compile)]}[0m
 [0m[[0minfo[0m] [0mResolving com.oradian.sbt#sbt-sh;0.3.0 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.oradian.sbt#sbt-sh;0.3.0 {compile=[default(compile)]}[0m
-[0m[[0minfo[0m] [0mResolving com.oradian.sbt#sbt-sh;0.3.0 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain-delegate: Checking cache for: dependency: com.oradian.sbt#sbt-sh;0.3.0 {compile=[default(compile)]}[0m
-[0m[[0mdebug[0m] [0m		tried https://repo.typesafe.com/typesafe/ivy-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=https://repo.typesafe.com/typesafe/ivy-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0m	typesafe-ivy-releases: no ivy file found for com.oradian.sbt#sbt-sh;0.3.0[0m
-[0m[[0mdebug[0m] [0m		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0m	sbt-plugin-releases: found md file for com.oradian.sbt#sbt-sh;0.3.0[0m
-[0m[[0mdebug[0m] [0m		=> https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml (0.3.0)[0m
-[0m[[0mdebug[0m] [0mdownloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml ...[0m
-[0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/ivys/ivy.xml[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.oradian.sbt#sbt-sh;0.3.0!ivy.xml(ivy.original) (4288ms)[0m
-[0m[[0mdebug[0m] [0m	found com.oradian.sbt#sbt-sh;0.3.0 in sbt-plugin-releases[0m
+[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.oradian.sbt#sbt-sh;0.3.0[0m
+[0m[[0mdebug[0m] [0m	found com.oradian.sbt#sbt-sh;0.3.0 in sbt-chain[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {provided=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.7 {provided=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0mresolving dependencies for configuration 'runtime'[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies for default#cs320-build;0.1-SNAPSHOT [runtime][0m
@@ -6084,12 +6073,7 @@
 [0m[[0mdebug[0m] [0mignoring unhandled DependencyDescriptorMediator: class sbt.IvyScala$OverrideScalaMediator[0m
 [0m[[0mdebug[0m] [0m	resolved ivy file produced in cache[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
-[0m[[0mdebug[0m] [0m		tried https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/jars/sbt-sh.jar[0m
-[0m[[0minfo[0m] [0mdownloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/jars/sbt-sh.jar ...[0m
-[0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/jars/sbt-sh.jar[0m
-[0m[[0mdebug[0m] [0m	sbt-plugin-releases: downloading https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/jars/sbt-sh.jar.sha1[0m
-[0m[[0mdebug[0m] [0msha1 OK for https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.oradian.sbt/sbt-sh/scala_2.10/sbt_0.13/0.3.0/jars/sbt-sh.jar[0m
-[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.oradian.sbt#sbt-sh;0.3.0!sbt-sh.jar (6117ms)[0m
+[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.oradian.sbt#sbt-sh;0.3.0!sbt-sh.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#scala-library;2.10.7!scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#sbt;0.13.17!sbt.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#main;0.13.17!main.jar[0m
@@ -6143,7 +6127,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 14460ms :: artifacts dl 6174ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 601ms :: artifacts dl 28ms[0m
 [0m[[0mdebug[0m] [0m	report for default#cs320-build;0.1-SNAPSHOT compile produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-cs320-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#cs320-build;0.1-SNAPSHOT runtime produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-cs320-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#cs320-build;0.1-SNAPSHOT test produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-cs320-build-test.xml[0m
@@ -6157,5 +6141,5 @@
 [0m[[0mdebug[0m] [0m	report for default#cs320-build;0.1-SNAPSHOT docs produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-cs320-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#cs320-build;0.1-SNAPSHOT pom produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-cs320-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#cs320-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-cs320-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (14460ms resolve - 6174ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (601ms resolve - 28ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
