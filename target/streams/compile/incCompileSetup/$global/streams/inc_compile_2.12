@@ -19,7 +19,7 @@ name hashing:
 1 items
 0 -> true
 products:
-47 items
+77 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Exercise01$Add$.class
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Exercise01$Add.class
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Exercise01$Id$.class
@@ -65,10 +65,40 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homew
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework02.class
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw02\package$.class
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw02\package.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Acc$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Acc.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Add$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Add.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$App$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$App.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Fun$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Fun.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Id$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Id.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$MRFWAE$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$MRFWAE.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Num$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Num.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Rec$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Rec.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Sub$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Sub.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$With$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$With.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$CloV$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$CloV.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$MRFWAEValue.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$NumV$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$NumV.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$Record$.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$Record.class
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package.class
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Main$.class
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Main.class
 binary dependencies:
-19 items
+24 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.1.0.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
@@ -85,6 +115,11 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homew
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.1.0.jar
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> C:\Program Files\Java\jre1.8.0_221\lib\rt.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.12.8.jar
@@ -97,7 +132,7 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-9 items
+12 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala
@@ -107,20 +142,25 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw01\packa
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
-6 items
+8 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw01\Homework01.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw01\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw01\Homework01.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala
 inheritance external dependencies:
 0 items
 class names:
-47 items
+77 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> cs320.Exercise01
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> cs320.Exercise01$Add
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> cs320.Exercise01$Add$
@@ -166,10 +206,40 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homew
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala -> cs320.Homework02$With$
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> cs320.hw02.package
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> cs320.hw02.package$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Acc
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Acc$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Add
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Add$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$App
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$App$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Fun
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Fun$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Id
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Id$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$MRFWAE
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$MRFWAE$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Num
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Num$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Rec
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Rec$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Sub
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$Sub$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$With
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320.Homework03$With$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$CloV
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$CloV$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$MRFWAEValue
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$NumV
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$NumV$
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$Record
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320.hw03.package$Record$
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> cs320.Main
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> cs320.Main$
 used names:
-647 items
+928 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> &&
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> <byname>
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> <init>
@@ -731,6 +801,287 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\packa
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> test
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> testExc
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> x
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> $conforms
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> &&
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ::
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> <:<
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> <byname>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> <init>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> <refinement>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> <repeated>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> <~
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ==
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> A
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> A1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> AbstractFunction1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> AbstractFunction2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> AbstractFunction3
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Acc
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Add
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Any
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> AnyRef
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> App
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> B
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Boolean
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> CanBuildFrom
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> CharSequence
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Coll
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Fun
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Function1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Homework
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Homework03
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Id
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> IndexOutOfBoundsException
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Int
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Iterator
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> List
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> MRFWAE
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Map
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> MatchError
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Nil
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> None
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Nothing
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Num
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Object
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Option
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ParseResult
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Parser
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Predef
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Product
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Rec
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Regex
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> RegexParsers
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ScalaRunTime
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Serializable
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Some
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Statics
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> String
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> StringContext
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> StringOps
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Sub
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> T
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> T0
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> T1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> T2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> T3
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> That
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Tuple2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> Tuple3
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> U
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> With
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ^^
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> _1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> _2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> _hashCode
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> _root_
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> _toString
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> args
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> as
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> asInstanceOf
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> augmentString
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> b
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> body
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> canBuildFrom
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> collection
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> combinator
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> contains
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> cs320
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> dupCheck
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> e
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> eq
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> error
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> expr
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> f
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> finalizeHash
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> func
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> getOrElse
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> h
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> head
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> i
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> immutable
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> int
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> isInstanceOf
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> l
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> left
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> literal
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> map
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> mix
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> name
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ne
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> num
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> pList
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> package
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> params
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> parseAll
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> parsing
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ps
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> r
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> rec
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> regex
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> rep
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> right
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> rule
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> runtime
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> s
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ss
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> str
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> t
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> toInt
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> toMap
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> toString
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> typedProductIterator
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> util
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> value
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> wrap
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> x
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> |
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ||
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ~
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> ~>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> !=
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> $conforms
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> &&
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> +
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ++
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> -
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ->
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> <:<
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> <byname>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> <init>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> <repeated>
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ==
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> A
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> A1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> AbstractFunction1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> AbstractFunction3
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Acc
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Add
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Any
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> AnyRef
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> App
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ArrowAssoc
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> B
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Boolean
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> CanBuildFrom
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> CloV
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Coll
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Env
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Fun
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Function1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> GenIterable
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> GenTraversableOnce
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Homework03
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Id
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> IndexOutOfBoundsException
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Int
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Iterable
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Iterator
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> List
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ListEnv
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> MRFWAE
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> MRFWAEValue
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Map
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> MatchError
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> None
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Nothing
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Num
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> NumV
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Object
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Option
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Predef
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Product
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Rec
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Record
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ScalaRunTime
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Serializable
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Some
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Statics
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> String
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> StringContext
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Sub
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> T
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> T0
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> T1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> T2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> T3
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> That
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Tuple2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Tuple3
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> U
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> Unit
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> V1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> With
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> _1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> _2
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> _hashCode
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> _root_
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> _toString
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> a
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> apply
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> args
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> asInstanceOf
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> b
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> body
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> canBuildFrom
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> collection
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> cs320
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> drop
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> e
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> env
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> eq
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> error
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> expr
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> f
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> fenv
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> finalizeHash
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> func
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> getOrElse
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> head
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> hw03
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> i
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> interp
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> isInstanceOf
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> k
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> keys
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> l
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> left
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> length
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> m
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> map
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> mix
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> mrwfwae
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> mrwfwae_tmp
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> n
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> name
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ne
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> num
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> numVAdd
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> numVSub
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> package
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> param
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> params
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> r
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> rec
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> right
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> run
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> runtime
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> s
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> scala
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> str
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> test
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> testExc
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> tmp1
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> toMap
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> toString
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> typedProductIterator
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> v
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> value
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> values
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> x
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> y
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> zip
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> ||
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> +
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> ::
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> <init>
@@ -818,7 +1169,7 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> toList
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> universe
 product stamps:
-47 items
+77 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\ex01\package$.class -> lastModified(1569346947095)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\ex01\package.class -> lastModified(1569346947097)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Exercise01$Add$.class -> lastModified(1569346947043)
@@ -860,14 +1211,44 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework02$With$.class -> lastModified(1569346947209)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework02$With.class -> lastModified(1569346947207)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework02.class -> lastModified(1569346947193)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Acc$.class -> lastModified(1569955505721)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Acc.class -> lastModified(1569955505720)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Add$.class -> lastModified(1569955505689)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Add.class -> lastModified(1569955505687)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$App$.class -> lastModified(1569955505709)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$App.class -> lastModified(1569955505707)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Fun$.class -> lastModified(1569955505713)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Fun.class -> lastModified(1569955505712)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Id$.class -> lastModified(1569955505704)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Id.class -> lastModified(1569955505702)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$MRFWAE$.class -> lastModified(1569955505743)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$MRFWAE.class -> lastModified(1569955505678)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Num$.class -> lastModified(1569955505684)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Num.class -> lastModified(1569955505681)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Rec$.class -> lastModified(1569955505717)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Rec.class -> lastModified(1569955505716)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Sub$.class -> lastModified(1569955505694)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$Sub.class -> lastModified(1569955505692)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$With$.class -> lastModified(1569955505699)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03$With.class -> lastModified(1569955505697)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Homework03.class -> lastModified(1569955505676)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw01\package$.class -> lastModified(1569346947155)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw01\package.class -> lastModified(1569346947156)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw02\package$.class -> lastModified(1569349209375)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw02\package.class -> lastModified(1569349209378)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$.class -> lastModified(1569964375972)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$CloV$.class -> lastModified(1569964375988)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$CloV.class -> lastModified(1569964375986)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$MRFWAEValue.class -> lastModified(1569964375977)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$NumV$.class -> lastModified(1569964375983)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$NumV.class -> lastModified(1569964375980)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$Record$.class -> lastModified(1569964375993)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package$Record.class -> lastModified(1569964375991)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw03\package.class -> lastModified(1569964375975)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Main$.class -> lastModified(1569346946960)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\Main.class -> lastModified(1569346946962)
 source stamps:
-8 items
+10 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> hash(27b4bd00d7cffbf0c7e752da9c78310ad1fe40c9)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\package.scala -> hash(95bbd9750e0b9e61bfb3ef136543193cf8e9d9de)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Homework.scala -> hash(3d294cb581786a4c6639aa36ca4a92a5309f9f83)
@@ -875,6 +1256,8 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw01\Homew
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw01\package.scala -> hash(b4fcdc8194177510517d9dd7e1214a3f548cc03e)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homework02.scala -> hash(f7f1ca20a0ffd1a924ed0810654312d3f8dc020f)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> hash(625cc69119dfbf46639c6a926471a7fb2937ebdc)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> hash(f62e13e8d8ba348ac8cd8f48b138690bab540a0e)
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> hash(88d23fdbf0774e22d4c1038a2738e30629f5c57b)
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> hash(64f76797df97a463415af0a339c812704d973081)
 binary stamps:
 4 items
@@ -886,10 +1269,10 @@ class names:
 4 items
 C:\Program Files\Java\jre1.8.0_221\lib\rt.jar -> java.lang.Object
 C:\Users\Nick\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.1.0.jar -> scala.util.parsing.combinator.RegexParsers
-C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar -> scala.StringContext$
+C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar -> scala.runtime.AbstractFunction3
 C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.12.8.jar -> scala.reflect.api.JavaUniverse
 internal apis:
-8 items
+10 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwMOElkwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHA7tadFdAAHbGl0ZXJhbHNxAH4AC+ahi050AAZhY2NlcHRzcQB+AAsUV/tCdAAFcmVnZXh1cQB+AAkAAACUc3EAfgALG3P0VnQAEHdpdGhFcnJvck1lc3NhZ2VzcQB+AAtPJmHjdAAKd2l0aEZpbHRlcnNxAH4ACyVwhod0AAJeXnNxAH4AC4Ecsc50AA9mbGF0TWFwV2l0aE5leHRzcQB+AAtjJ6AUdAAGbm90aWZ5c3EAfgALD+zehXQACmJpbmRpbmdJZHNzcQB+AAtXo8K+dAAHZmFpbHVyZXNxAH4AC3Il9pd0AAd1bmFwcGx5c3EAfgALy4I+43QAAklkc3EAfgALLhHJ33QAB2N1cnJpZWRzcQB+AAv9NXyAdAAEdGVzdHNxAH4ACyRWpwd0AARib2R5c3EAfgALs/zHhHQABG5hbWVzcQB+AAvNG9UAdAAEV2l0aHNxAH4ACwauC9V0AA9wcmludFN0YWNrVHJhY2VzcQB+AAvpwoH9dAADfHx8c3EAfgALsovOd3QAB3N1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ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AUV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0ABBjczMyMC5FeGVyY2lzZTAxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AV5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BRUwACWluaGVyaXRlZHEAfgFFTAAHcGFyZW50c3EAfgFFeHEAfgFjc3EAfgFedXEAfgFAAAAAAHNxAH4BXnVxAH4BQAAAAABzcQB+AV51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AWJ0AAhIb21ld29ya3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFY3MzMjBzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BfHNxAH4Bb3QABk9iamVjdHNxAH4Bc3NxAH4BdnVxAH4BeQAAAANzcQB+AXt0AARqYXZhc3EAfgF7dAAEbGFuZ3EAfgGAc3EAfgFvdAADQW55c3EAfgFzc3EAfgF2dXEAfgF5AAAAAnNxAH4Be3QABXNjYWxhcQB+AYB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAVjczMyMHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWRd8J51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKQzpcVXNlcnNcTmlja1xPbmVEcml2ZVxLQUlTVFxDb3Vyc2VzXENTMzIwXGNzMzIwXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQntL0A18/78MfnUtqceDEK0f5AyQ==
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\package.scala -> 
@@ -904,12 +1287,16 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homew
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwN3MfmAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCVQKjXdAAHbGl0ZXJhbHNxAH4AC+7c0kt0AAZhY2NlcHRzcQB+AAvrRwOPdAAFcmVnZXh1cQB+AAkAAACVc3EAfgALOUXSlXQAEHdpdGhFcnJvck1lc3NhZ2VzcQB+AAurJoDddAAKd2l0aEZpbHRlcnNxAH4AC3XhzLl0AAJeXnNxAH4ACyjV18h0AA9mbGF0TWFwV2l0aE5leHRzcQB+AAtF0U1VdAAGbm90aWZ5c3EAfgALSy4o7HQAB2ZhaWx1cmVzcQB+AAuZjRiZdAAHdW5hcHBseXNxAH4AC06/nit0AAJJZHNxAH4AC3K6cFN0AAdjdXJyaWVkc3EAfgALyqE0jnQABHRlc3RzcQB+AAt/QKSddAAEYm9keXNxAH4ACyNfYcd0AARuYW1lc3EAfgALccPdR3QACkhvbWV3b3JrMDJzcQB+AAug5uGAdAAEV2l0aHNxAH4AC+WJ9+V0AA9wcmludFN0YWNrVHJhY2VzcQB+AAvqjSWsdAADfHx8c3EAfgALlPdJ+HQAB3N1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ZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AUd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0ABBjczMyMC5Ib21ld29yazAydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AWBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BR0wACWluaGVyaXRlZHEAfgFHTAAHcGFyZW50c3EAfgFHeHEAfgFlc3EAfgFgdXEAfgFCAAAAAHNxAH4BYHVxAH4BQgAAAABzcQB+AWB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AWR0AAhIb21ld29ya3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4BZHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFY3MzMjBzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4BfnNxAH4BcXQABk9iamVjdHNxAH4BdXNxAH4BeHVxAH4BewAAAANzcQB+AX10AARqYXZhc3EAfgF9dAAEbGFuZ3EAfgGCc3EAfgFxdAADQW55c3EAfgF1c3EAfgF4dXEAfgF7AAAAAnNxAH4BfXQABXNjYWxhcQB+AYJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAVjczMyMHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWRd8J51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKQzpcVXNlcnNcTmlja1xPbmVEcml2ZVxLQUlTVFxDb3Vyc2VzXENTMzIwXGNzMzIwXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT38cogoP/RqSTtCBBlQxLT+NwCDw==
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1qhftAABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHDlpu5zdAAHbGl0ZXJhbHNxAH4AC/4w+iR0AAZhY2NlcHRzcQB+AAuEsNqNdAAFcmVnZXh1cQB+AAkAAACWc3EAfgALNV0lN3QAEHdpdGhFcnJvck1lc3NhZ2VzcQB+AAt3OxADdAAKd2l0aEZpbHRlcnNxAH4AC6CSkoJ0AAJeXnNxAH4ACydllId0AA9mbGF0TWFwV2l0aE5leHRzcQB+AAsV9RuCdAAGbm90aWZ5c3EAfgAL5DOQ13QAB2ZhaWx1cmVzcQB+AAtCWvjmdAAHdW5hcHBseXNxAH4AC1+7G0R0AAJJZHNxAH4AC2hh3Tl0AAdjdXJyaWVkc3EAfgALPEuKw3QABHRlc3RzcQB+AAsZsVl9dAAHcGFja2FnZXNxAH4ACwSouid0AARib2R5c3EAfgALSgwNsXQABG5hbWVzcQB+AAunqOtQdAAEV2l0aHNxAH4AC2UCYSl0AA9wcmludFN0YWNrVHJhY2VzcQB+AAsqlVb4dAADfHx8c3EAfgALGVmvX3QAB3N1Y2Nl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aXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AUl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABJjczMyMC5odzAyLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AWJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BSUwACWluaGVyaXRlZHEAfgFJTAAHcGFyZW50c3EAfgFJeHEAfgFnc3EAfgFidXEAfgFEAAAAAHNxAH4BYnVxAH4BRAAAAABzcQB+AWJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AWZ0AApIb21ld29yazAyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgFmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVjczMyMHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgGAc3EAfgFzdAAISG9tZXdvcmtxAH4BeXNxAH4Bc3QABk9iamVjdHNxAH4Bd3NxAH4BenVxAH4BfQAAAANzcQB+AX90AARqYXZhc3EAfgF/dAAEbGFuZ3EAfgGEc3EAfgFzdAADQW55c3EAfgF3c3EAfgF6dXEAfgF9AAAAAnNxAH4Bf3QABXNjYWxhcQB+AYR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AApjczMyMC5odzAyc3EAfgGZdAAFY3MzMjBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1kgH/kdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUYlzGkRnfv0ZjnGqSZHGn+yk369w=
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwp2aM/QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBmn+/ldAAHbGl0ZXJhbHNxAH4AC92CD3d0AAZhY2NlcHRzcQB+AAvpTDFydAAFcmVnZXh1cQB+AAkAAACbc3EAfgALJmkiyXQAEHdpdGhFcnJvck1lc3NhZ2VzcQB+AAu/MU7odAAKd2l0aEZpbHRlcnNxAH4AC0kSYvN0AAJeXnNxAH4AC6PBE4R0AA9mbGF0TWFwV2l0aE5leHRzcQB+AAuUIZuxdAAIZHVwQ2hlY2tzcQB+AAvpbsHKdAAGbm90aWZ5c3EAfgAL3MFsIHQAB2ZhaWx1cmVzcQB+AAufStm3dAAHdW5hcHBseXNxAH4AC0y6tS90AAJJZHNxAH4AC5pcqCl0AAdjdXJyaWVkc3EAfgALb6bqfXQABHRlc3RzcQB+AAtAlVn9dAAEYm9keXNxAH4AC3RecgF0AARuYW1lc3EAfgALJ4mFFXQABFdpdGhzcQB+AAv5kkx2dAAPcHJpbnRTdGFja1RyYWNlc3EAfgALOcls6HQAA3x8fHNxAH4AC727tzl0AAdzdWN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9LHQAA0Z1bnNxAH4ACxT1n2x0AAZhcHBlbmRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgFTeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAQY3MzMjAuSG9tZXdvcmswM3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgFsc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AVNMAAlpbmhlcml0ZWRxAH4BU0wAB3BhcmVudHNxAH4BU3hxAH4BcXNxAH4BbHVxAH4BTgAAAABzcQB+AWx1cQB+AU4AAAAAc3EAfgFsdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgFwdAAISG9tZXdvcmtzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AXBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABWNzMzIwc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AYpzcQB+AX10AAZPYmplY3RzcQB+AYFzcQB+AYR1cQB+AYcAAAADc3EAfgGJdAAEamF2YXNxAH4BiXQABGxhbmdxAH4BjnNxAH4BfXQAA0FueXNxAH4BgXNxAH4BhHVxAH4BhwAAAAJzcQB+AYl0AAVzY2FsYXEAfgGOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAFY3MzMjBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW2Io9J1dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU9i4T6Ni6NIrIzY9IsThpC6tUCg4=
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0zml8wABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAANzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBSMPf4dAAHbGl0ZXJhbHNxAH4ACwvEpI50AAZhY2NlcHRzcQB+AAulU2mSdAAFcmVnZXh1cQB+AAkAAAClc3EAfgALOw7EtXQAEHdpdGhFcnJvck1lc3NhZ2VzcQB+AAuk+IzOdAAKd2l0aEZpbHRlcnNxAH4AC/rgPDF0AAJeXnNxAH4ACx2sCEF0AA9mbGF0TWFwV2l0aE5leHRzcQB+AAufE6mbdAAIZHVwQ2hlY2tzcQB+AAubtn+kdAAGbm90aWZ5c3EAfgALbCGF2HQAB2ZhaWx1cmVzcQB+AAtdcJsWdAAHdW5hcHBseXNxAH4AC9UvtAV0AAJJZHNxAH4ACyBCXoh0AAdjdXJyaWVkc3EAfgALPEuKw3QABHRlc3RzcQB+AAucHO3xdAAHcGFja2FnZXNxAH4ACyvtZ650AARib2R5c3EAfgALBTpW33QABG5hbWVzcQB+AAsFDxlodAAEV2l0aHNxAH4AC2UCYSl0AA9wcmludFN0YWNrVHJhY2VzcQB+AAukx5TAdAA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AfgALvfGHMnQABnJlcHNlcHNxAH4ACw7jjBJ0AAJ+IXNxAH4AC+1fEVp0AANlbnZzcQB+AAuUVdfCdAAFcmlnaHRzcQB+AAveF7O7dAACIyNzcQB+AAu8EC9CdAAIZmluYWxpemVzcQB+AAtQEvsGdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvdwcqjdAAIaGFzaENvZGVzcQB+AAtaA28ydAAHY2hhaW5yMXNxAH4AC/8oO7B0AANGdW5zcQB+AAt9Lum/dAAGYXBwZW5kc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEmNzMzIwLmh3MDMucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BgHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgFnTAAJaW5oZXJpdGVkcQB+AWdMAAdwYXJlbnRzcQB+AWd4cQB+AYVzcQB+AYB1cQB+AWIAAAAAc3EAfgGAdXEAfgFiAAAAAHNxAH4BgHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4BhHQACkhvbWV3b3JrMDNzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AYRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABWNzMzIwc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AZ5zcQB+AZF0AAhIb21ld29ya3EAfgGXc3EAfgGRdAAGT2JqZWN0c3EAfgGVc3EAfgGYdXEAfgGbAAAAA3NxAH4BnXQABGphdmFzcQB+AZ10AARsYW5ncQB+AaJzcQB+AZF0AANBbnlzcQB+AZVzcQB+AZh1cQB+AZsAAAACc3EAfgGddAAFc2NhbGFxAH4BonVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABWNzMzIwc3EAfgG3dAAKY3MzMjAuaHcwM3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkrMit1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABKQzpcVXNlcnNcTmlja1xPbmVEcml2ZVxLQUlTVFxDb3Vyc2VzXENTMzIwXGNzMzIwXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSI0j/b8HdOItTBA4onOOMGKfXFew==
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwaOgDXQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwGepzeXQABm5vdGlmeXNxAH4ADGhwRNV0AAR3YWl0c3EAfgAMmXHYCnQADSRhc0luc3RhbmNlT2ZzcQB+AAzI2AKUdAAGZXF1YWxzc3EAfgAM15eadnQADGFzSW5zdGFuY2VPZnNxAH4ADGcZWt50AAxzeW5jaHJvbml6ZWRzcQB+AAwxr6i3dAANJGlzSW5zdGFuY2VPZnNxAH4ADFxgNVV0AARtYWluc3EAfgAM0OwVxHQAEHJlZE1zZyRkZWZhdWx0JDFzcQB+AAwekt4ndAAJbm90aWZ5QWxsc3EAfgAMADVJf3QADGlzSW5zdGFuY2VPZnNxAH4ADKSZwHt0AARoZWxwc3EAfgAMs8rXuXQAAj09c3EAfgAMTmMsm3QABWNsb25lc3EAfgAMvYBGznQABnJlZE1zZ3NxAH4ADC0JCh90AARNYWluc3EAfgAMtAKuc3QACHRvU3RyaW5nc3EAfgAMzqMCtHQAAiE9c3EAfgAMQ0NLn3QACGdldENsYXNzc3EAfgAMQt10PXQACHJ1blRlc3Rzc3EAfgAMIbNsuXQAAm5lc3EAfgAMXl1Q23QAAmVxc3EAfgAMSmYUVHQAAiMjc3EAfgAMRWCI3nQACGZpbmFsaXplc3EAfgAMGKiXGHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ASXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACmNzMzIwLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBnc3EAfgBidXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAAAc3EAfgBWAHEAfgAddXEAfgBZAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGZ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCCdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ab3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AdlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZnNxAH4AdXQABUFycmF5cQB+AHt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AdXQABlN0cmluZ3NxAH4AeXNxAH4AfHVxAH4AfwAAAANzcQB+AIF0AARqYXZhc3EAfgCBdAAEbGFuZ3EAfgCGc3EAfgBidXEAfgBEAAAAAHNxAH4AYnVxAH4AmgAAAAJzcQB+AHV0AAZPYmplY3RxAH4AnnNxAH4AdXQAA0FueXEAfgB7dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFY3MzMjBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAW1kXfCedXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUZPdnl9+XpGNBWvCjOcgScE2XMIE=
 external apis:
 0 items
 source infos:
-8 items
+10 items
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\Exercise01.scala -> 
 AAAAAAAAAAA=
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\ex01\package.scala -> 
@@ -924,10 +1311,14 @@ C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\Homew
 AAAAAAAAAAA=
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw02\package.scala -> 
 AAAAAAAAAAA=
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\Homework03.scala -> 
+AAAAAAAAAAA=
+C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw03\package.scala -> 
+AAAAAAAAAAA=
 C:\Users\Nick\OneDrive\KAIST\Courses\CS320\cs320\src\main\scala\cs320\Main.scala -> 
 AAAAAAAAAAA=
 compilations:
-44 items
+59 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbPyC6Ap1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbRaydWF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbRb3TwZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
@@ -972,3 +1363,18 @@ compilations:
 41 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWR7ZGJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 42 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWR/CQ11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 43 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbWSAf+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+44 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYij0nV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+45 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYikZDl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+46 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYinVyZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+47 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYisTK51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+48 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYivAF11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+49 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYjlY+h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+50 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYjmduF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+51 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYjnnu51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+52 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkN0+d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+53 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkXWKN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+54 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkYc3Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+55 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkejUF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+56 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkgdt11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+57 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkhJIN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+58 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABbYkrMit1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASkM6XFVzZXJzXE5pY2tcT25lRHJpdmVcS0FJU1RcQ291cnNlc1xDUzMyMFxjczMyMFx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
