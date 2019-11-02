@@ -76,7 +76,7 @@
     </orderEntry>
   </component>
   <component name="SbtModule">
-    <option name="buildForURI" value="file:/$MODULE_DIR$/../../" />
+    <option name="buildForURI" value="file:/$USER_HOME$/OneDrive%20-%20kaist.ac.kr/KAIST/Courses/CS320/cs320/" />
     <option name="imports" value="_root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.com.oradian.sbt.SbtShPlugin, sbt._, Keys._, dsl._" />
   </component>
 </module>
