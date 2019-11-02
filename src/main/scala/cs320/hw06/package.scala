@@ -160,6 +160,7 @@ package object hw06 extends Homework06 {
                           {openbox b}}}
                 {newbox 1}}"""), "10")
     testExc(run("{get {rec {x 1}} y}"), "no such field")
+    test(run("{get {rec {x 1} {x 2}} x}"), "2")
     test(run("{{fun {r} {seqn {set r x 5}}} {rec {x 1}}}"), "5")
     test(run("{{fun {r} {seqn {set r x 5} {get r x}}} {rec {x 1}}}"), "5")
     test(run("42"), "42")
@@ -168,5 +169,20 @@ package object hw06 extends Homework06 {
     test(run("{rec}"), "record")
 
     /* Write your own tests */
+    // Courtesy of 나지웅
+    test(run("{seqn 1 2}"), "2")
+    test(run("{{fun {b} {openbox b}} {newbox 10}}"), "10")
+    test(run("{{fun {b} {seqn {setbox b 12} {openbox b}}} {newbox 10}}"), "12")
+    test(run("{{fun {b} {seqn {setbox b 12} {openbox b}}} {newbox 10}}"), "12")
+    test(run("{{fun {b} {openbox b}} {seqn {newbox 9} {newbox 10}}}"), "10")
+    test(run("{{{fun {b} {fun {a} {openbox b}}} {newbox 9}} {newbox 10}}"), "9")
+    test(run("{{fun {b} {seqn {setbox b 2} {openbox b}}} {newbox 1}}"), "2")
+    test(run("{{fun {b} {seqn {setbox b {+ 2 {openbox b}}} {setbox b {+ 3 {openbox b}}} {setbox b {+ 4 {openbox b}}} {openbox b}}} {newbox 1}}"), "10")
+    test(run("{{fun {r} {get r x}} {rec {x 1}}}"), "1")
+    test(run("{{fun {r} {seqn {set r x 5} {get r x}}} {rec {x 1}}}"), "5")
+    test(run("{{{{{fun {g} {fun {s} {fun {r1} {fun {r2} {+ {get r1 b} {seqn {{s r1} {g r2}} {+ {seqn {{s r2} {g r1}} {get r1 b}} {get r2 b}}}}}}}} {fun {r} {get r a}}} {fun {r} {fun {v} {set r b v}}}} {rec {a 0} {b 2}}} {rec {a 3} {b 4}}}"), "5")
+    test(run("{fun {x} x}"), "function")
+    test(run("{newbox 1}"), "box")
+    test(run("{rec}"), "record")
   }
 }

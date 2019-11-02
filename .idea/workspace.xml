@@ -2,36 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcd6932-0d12-4817-9202-5cdf94932a9a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/cs320-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cs320-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/cs320.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cs320.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ef35906ba2a59ecbca22$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ef35906ba2a59ecbca22.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$ef35906ba2a59ecbca22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08aba81a0b7d7c1d5668$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08aba81a0b7d7c1d5668$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08aba81a0b7d7c1d5668.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$08aba81a0b7d7c1d5668.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ccdc6363933a361386c$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ccdc6363933a361386c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ccdc6363933a361386c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1ccdc6363933a361386c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$678b904d27aa1dca804a$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$678b904d27aa1dca804a$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$678b904d27aa1dca804a.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$678b904d27aa1dca804a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7167c5c7e283ea238da6$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7167c5c7e283ea238da6$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7167c5c7e283ea238da6.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7167c5c7e283ea238da6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9f1428985ea53ee420db$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9f1428985ea53ee420db$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9f1428985ea53ee420db.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$9f1428985ea53ee420db.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3d21a3aafa5f27297d3$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3d21a3aafa5f27297d3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3d21a3aafa5f27297d3.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d3d21a3aafa5f27297d3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$be06ce39a074200f75e3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$be06ce39a074200f75e3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$be06ce39a074200f75e3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$110f0573fc87796aa17c$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$110f0573fc87796aa17c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$110f0573fc87796aa17c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$110f0573fc87796aa17c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f57a2e50dc866a90a16$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f57a2e50dc866a90a16$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f57a2e50dc866a90a16.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$3f57a2e50dc866a90a16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$966f1c7a697687bec336$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$966f1c7a697687bec336$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$966f1c7a697687bec336.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$966f1c7a697687bec336.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afa981aed72c6ec93acb$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afa981aed72c6ec93acb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afa981aed72c6ec93acb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$afa981aed72c6ec93acb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf5c5b749d0decd897c3$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf5c5b749d0decd897c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf5c5b749d0decd897c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$bf5c5b749d0decd897c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f8836a30ee6d8cda47b4$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f8836a30ee6d8cda47b4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f8836a30ee6d8cda47b4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f8836a30ee6d8cda47b4.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/cs320-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/cs320-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/cs320-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/default/cs320-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-compile-internal.xml" afterDir="false" />
@@ -47,50 +45,17 @@
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-sources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-cs320-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320_2.12/1.0/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320_2.12/1.0/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-docs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-sources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cs320/hw06/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cs320/hw06/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw06/package$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw06/package$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,6 +123,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -287,7 +253,7 @@
       <workItem from="1569781323379" duration="29822000" />
       <workItem from="1570475474069" duration="201000" />
       <workItem from="1571358256287" duration="61000" />
-      <workItem from="1572573633396" duration="17942000" />
+      <workItem from="1572573633396" duration="20229000" />
     </task>
     <servers />
   </component>
