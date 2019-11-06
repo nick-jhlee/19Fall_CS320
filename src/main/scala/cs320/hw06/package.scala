@@ -10,10 +10,10 @@ package object hw06 extends Homework06 {
   case class NumV(n: Int) extends SRBFAEValue
   case class CloV(param: String, body: SRBFAE, env: Env) extends SRBFAEValue
   case class BoxV(addr: Addr) extends SRBFAEValue
-  case class Record(rec: Map[String, SRBFAEValue]) extends SRBFAEValue
+  case class Record(rec: Map[String, Addr]) extends SRBFAEValue
   type Env = Map[String, Addr]
   type Sto = Map[Addr, SRBFAEValue]
-  type Rec = Map[String, SRBFAEValue]
+  type Rec = Map[String, Addr]
 
   // From Lecture 11
   def malloc(sto: Sto): Addr =
@@ -21,8 +21,9 @@ package object hw06 extends Homework06 {
       case (max, (addr, _)) => math.max(max, addr)
     } + 1
 
-  def lookup(str: String, env: Env): Addr = env getOrElse(str, error(s"free identifier: $str"))
-  def storeLookup(addr: Addr, sto: Sto) = sto getOrElse(addr, error(s"not a valid address: $addr"))
+  def lookup_env(str: String, env: Env): Addr = env getOrElse(str, error(s"free identifier: $str"))
+  def lookup_rec(str: String, rec: Rec): Addr = rec getOrElse(str, error(s"no such field: $str"))
+  def storeLookup(addr: Addr, sto: Sto): SRBFAEValue = sto getOrElse(addr, error(s"not a valid address: $addr"))
 
 
   def numVAdd(x: SRBFAEValue, y: SRBFAEValue): SRBFAEValue = (x, y) match {
@@ -40,105 +41,107 @@ package object hw06 extends Homework06 {
   // Use call-by-value implementation.
   def run(str: String): String = {
 
-    def interp(srbfae: SRBFAE, env: Env, rec: Rec, sto: Sto): (SRBFAEValue, Sto, Rec) = srbfae match {
-      case Num(num) => (NumV(num), sto, rec)
+    def interp(srbfae: SRBFAE, env: Env, rec: Rec, sto: Sto): (SRBFAEValue, Sto) = srbfae match {
+      case Num(num) => (NumV(num), sto)
 
       case Add(left, right) =>
-        val (lv, ls, lr) = interp(left, env, rec, sto)
-        val (rv, rs, rr) = interp(right, env, lr, ls)
-        (numVAdd(lv, rv), rs, rr)
+        val (lv, ls) = interp(left, env, rec, sto)
+        val (rv, rs) = interp(right, env, rec, ls)
+        (numVAdd(lv, rv), rs)
 
       case Sub(left, right) =>
-        val (lv, ls, lr) = interp(left, env, rec, sto)
-        val (rv, rs, rr) = interp(right, env, lr, ls)
-        (numVSub(lv, rv), rs, rr)
+        val (lv, ls) = interp(left, env, rec, sto)
+        val (rv, rs) = interp(right, env, rec, ls)
+        (numVSub(lv, rv), rs)
 
-      case Id(name: String) => (storeLookup(lookup(name, env), sto), sto, rec)
+      case Id(name: String) => (storeLookup(lookup_env(name, env), sto), sto)
 
       case Fun(param: String, body: SRBFAE) =>
 //        print("CLOV\n")
-        (CloV(param, body, env), sto, rec)
+        (CloV(param, body, env), sto)
 
       case App(fun: SRBFAE, arg: SRBFAE) =>
-        val (fv, fs, fr) = interp(fun, env, rec, sto)
-        val (av, as, ar) = interp(arg, env, fr, fs)
+        val (fv, fs) = interp(fun, env, rec, sto)
+        val (av, as) = interp(arg, env, rec, fs)
 //        print(s"APP: $av\n")
         fv match {
           case CloV(x, b, fenv) =>
             val addr = malloc(as)
-            interp(b, fenv + (x -> addr), ar, as + (addr -> av))
+            interp(b, fenv + (x -> addr), rec, as + (addr -> av))
           case _ =>
             error(s"not a closure: $fv")
         }
 
       case NewBox(expr: SRBFAE) =>
-        val (v, s, r) = interp(expr, env, rec, sto)
+        val (v, s) = interp(expr, env, rec, sto)
         val addr = malloc(s)
-        (BoxV(addr), s + (addr -> v), r)
+        (BoxV(addr), s + (addr -> v))
 
       case SetBox(box: SRBFAE, expr: SRBFAE) =>
-        val (bv, bs, br) = interp(box, env, rec, sto)
+        val (bv, bs) = interp(box, env, rec, sto)
         bv match {
           case BoxV(addr) =>
-            val (v, s, r) = interp(expr, env, br, bs)
-            (v, s + (addr -> v), r)
+            val (v, s) = interp(expr, env, rec, bs)
+            (v, s + (addr -> v))
           case _ =>
             error(s"not a box: $bv")
         }
 
       case OpenBox(box: SRBFAE) =>
-        val (bv, bs, br) = interp(box, env, rec, sto)
+        val (bv, bs) = interp(box, env, rec, sto)
         bv match {
           case BoxV(addr) =>
-            (storeLookup(addr, bs), bs, br)
+            (storeLookup(addr, bs), bs)
           case _ =>
             error(s"not a box: $bv")
         }
 
       case Seqn(left: SRBFAE, right: List[SRBFAE]) =>
-        val (lv, ls, lr) = interp(left, env, rec, sto)
+        val (lv, ls) = interp(left, env, rec, sto)
         right match {
           case List() =>
-            (lv, ls, lr)
+            (lv, ls)
           case _ =>
             val head = right.head
             val tail = right.tail
-            interp(Seqn(head, tail), env, lr, ls)
+            interp(Seqn(head, tail), env, rec, ls)
         }
 
       case Rec(fields) =>
 //        print("REC\n")
         fields match {
           case List() =>
-            (Record(rec), sto, rec)
+            (Record(rec), sto)
           case _ =>
             val (headl, headr) = fields.head
-            val headr_v = interp(headr, env, rec, sto)._1
+            val (headr_v, headr_s) = interp(headr, env, rec, sto)
             val tail = fields.tail
-            interp(Rec(tail), env, rec + (headl -> headr_v), sto)
+            val addr = malloc(headr_s)
+            interp(Rec(tail), env, rec + (headl -> addr), headr_s + (addr -> headr_v))
         }
 
       case Get(record, field) =>
-        val (v, s, r) = interp(record, env, rec, sto)
-        (r getOrElse(field, error(s"no such field")), s, r)
-//        v match {
-//          case Record(rec) =>
-//            val tmp = rec getOrElse(field, error(s"no such field"))
-//            print(s"GET: $tmp    $rec      $r\n")
-//            (tmp, s, r)
-//          case _ =>
-//            error(s"not a Record: $v")
-//        }
-
-      case Set(record, field, expr) =>
-        val (r, rs, rr) = interp(record, env, rec, sto)
-        r match {
+        val (v, s) = interp(record, env, rec, sto)
+//        print(s"$v          $r           $rec \n")
+        v match {
           case Record(rec) =>
             rec getOrElse(field, error(s"no such field"))
-            val (v, vs, vr) = interp(expr, env, rec, rs)
-            val tmp = rec + (field -> v)
+//            print(s"GET: $tmp    $rec      $r\n")
+            (storeLookup(lookup_rec(field, rec), s), s)
+          case _ =>
+            error(s"not a Record: $v")
+        }
+
+      case Set(record, field, expr) =>
+        val (r, rs) = interp(record, env, rec, sto)
+        r match {
+          case Record(rec) =>
+//            print(s"$r          $rr           $rec \n")
+            val addr = lookup_rec(field, rec)
+            val (v, vs) = interp(expr, env, rec, rs)
+//            val tmp = rec + (field -> v)
 //            print(s"SET: $tmp\n")
-            (v, vs, rec + (field -> v))
+            (v, vs + (addr -> v))
           case _ =>
             error(s"not a box: $r")
         }
@@ -169,7 +172,6 @@ package object hw06 extends Homework06 {
     test(run("{rec}"), "record")
 
     /* Write your own tests */
-    // Courtesy of 나지웅
     test(run("{seqn 1 2}"), "2")
     test(run("{{fun {b} {openbox b}} {newbox 10}}"), "10")
     test(run("{{fun {b} {seqn {setbox b 12} {openbox b}}} {newbox 10}}"), "12")
@@ -179,10 +181,6 @@ package object hw06 extends Homework06 {
     test(run("{{fun {b} {seqn {setbox b 2} {openbox b}}} {newbox 1}}"), "2")
     test(run("{{fun {b} {seqn {setbox b {+ 2 {openbox b}}} {setbox b {+ 3 {openbox b}}} {setbox b {+ 4 {openbox b}}} {openbox b}}} {newbox 1}}"), "10")
     test(run("{{fun {r} {get r x}} {rec {x 1}}}"), "1")
-    test(run("{{fun {r} {seqn {set r x 5} {get r x}}} {rec {x 1}}}"), "5")
     test(run("{{{{{fun {g} {fun {s} {fun {r1} {fun {r2} {+ {get r1 b} {seqn {{s r1} {g r2}} {+ {seqn {{s r2} {g r1}} {get r1 b}} {get r2 b}}}}}}}} {fun {r} {get r a}}} {fun {r} {fun {v} {set r b v}}}} {rec {a 0} {b 2}}} {rec {a 3} {b 4}}}"), "5")
-    test(run("{fun {x} x}"), "function")
-    test(run("{newbox 1}"), "box")
-    test(run("{rec}"), "record")
   }
 }
