@@ -57,13 +57,11 @@ package object hw06 extends Homework06 {
       case Id(name: String) => (storeLookup(lookup_env(name, env), sto), sto)
 
       case Fun(param: String, body: SRBFAE) =>
-//        print("CLOV\n")
         (CloV(param, body, env), sto)
 
       case App(fun: SRBFAE, arg: SRBFAE) =>
         val (fv, fs) = interp(fun, env, rec, sto)
         val (av, as) = interp(arg, env, rec, fs)
-//        print(s"APP: $av\n")
         fv match {
           case CloV(x, b, fenv) =>
             val addr = malloc(as)
@@ -108,7 +106,6 @@ package object hw06 extends Homework06 {
         }
 
       case Rec(fields) =>
-//        print("REC\n")
         fields match {
           case List() =>
             (Record(rec), sto)
@@ -122,11 +119,9 @@ package object hw06 extends Homework06 {
 
       case Get(record, field) =>
         val (v, s) = interp(record, env, rec, sto)
-//        print(s"$v          $r           $rec \n")
         v match {
           case Record(rec) =>
             rec getOrElse(field, error(s"no such field"))
-//            print(s"GET: $tmp    $rec      $r\n")
             (storeLookup(lookup_rec(field, rec), s), s)
           case _ =>
             error(s"not a Record: $v")
@@ -136,11 +131,8 @@ package object hw06 extends Homework06 {
         val (r, rs) = interp(record, env, rec, sto)
         r match {
           case Record(rec) =>
-//            print(s"$r          $rr           $rec \n")
             val addr = lookup_rec(field, rec)
             val (v, vs) = interp(expr, env, rec, rs)
-//            val tmp = rec + (field -> v)
-//            print(s"SET: $tmp\n")
             (v, vs + (addr -> v))
           case _ =>
             error(s"not a box: $r")
