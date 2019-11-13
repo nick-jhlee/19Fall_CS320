@@ -85,7 +85,7 @@ package object hw07 extends Homework07 {
         case ThrowV => ThrowV
 
         case v =>
-          error(s"WTF not a closure: $v")
+          error(s"not a closure: $v")
       })
 
       case If0(cond, thenE, elseE) =>
