@@ -39,37 +39,37 @@ package object hw07 extends Homework07 {
       case Fun(params, body) => k(CloV(params, body, env))
 
       case App(fun, args) => {
-        def ListEnv(params: List[String], args: List[KXCFAEValue], env: Env): Env = {
-          if (params.length != args.length)
-            error(s"wrong arity")
-          else if (params.length == 1)
-            env + (params.head -> args.head)
-          else if (params.length == 0)
-            env
-          else
-            ListEnv(params.drop(1), args.drop(1), env + (params.head -> args.head))
-        }
-
-
-        interp(fun, env, fv => {
-          def f(fv: KXCFAEValue, a: List[KXCFAE], env: Env, tmp: List[KXCFAEValue]): KXCFAEValue = {
-            if (a.length > 1) {
-              interp(a.head, env, av => f(fv, a.drop(1), env, tmp :: av)._1)
-            }
-            else {
-              interp(a.head, env, av =>
+        val a = args.head
+        if (args.length > 1) {
+          interp(fun, env, fv =>
+            interp(a, env, av =>
               fv match {
                 case CloV(p, b, fenv) =>
-                  interp(b, ListEnv(p.dropRight(1), tmp, fenv) + (p.last -> av), k)
+                  if (args.length != p.length)
+                    error("wrong arity")
+                  interp(App(Fun(p.drop(1), b), args.drop(1)), fenv + (p.head -> av), k)
+                case ContV(kv) =>
+                  kv(av)
                 case v =>
                   error(s"not a closure: $v")
-              })
-            }
-          }
-          f(fv, args, env, List())
-        })
-      }
+              }))
+        }
 
+        else {
+          interp(fun, env, fv =>
+            interp(a, env, av =>
+              fv match {
+                case CloV(p, b, fenv) =>
+                  if (args.length != p.length)
+                    error("wrong arity")
+                  interp(b, fenv + (p.head -> av), k)
+                case ContV(kv) =>
+                  kv(av)
+                case v =>
+                  error(s"not a closure: $v")
+              }))
+        }
+      }
 
       case If0(cond, thenE, elseE) =>
         val bool = interp(cond, env, k)
