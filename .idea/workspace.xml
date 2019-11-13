@@ -4,6 +4,10 @@
     <list default="true" id="6dcd6932-0d12-4817-9202-5cdf94932a9a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/cs320/hw07/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cs320/hw07/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +210,10 @@
       <workItem from="1573118268365" duration="40000" />
       <workItem from="1573377021830" duration="1021000" />
       <workItem from="1573458127328" duration="12882000" />
-      <workItem from="1573609993847" duration="1813000" />
+      <workItem from="1573609993847" duration="22106000" />
+      <workItem from="1573647976306" duration="69000" />
+      <workItem from="1573648061166" duration="3575000" />
+      <workItem from="1573651656117" duration="1992000" />
     </task>
     <servers />
   </component>
