@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcd6932-0d12-4817-9202-5cdf94932a9a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/cs320.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/cs320.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/cs320/hw07/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cs320/hw07/package.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/cs320/hw07/package.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/plrg.kaist.ac.kr/cs320$sources_2.12/1.0/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/plrg.kaist.ac.kr-cs320$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +73,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -77,18 +96,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -173,6 +180,18 @@
       </map>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -214,6 +233,13 @@
       <workItem from="1573647976306" duration="69000" />
       <workItem from="1573648061166" duration="3575000" />
       <workItem from="1573651656117" duration="1992000" />
+      <workItem from="1573739598335" duration="643000" />
+      <workItem from="1574919775654" duration="624000" />
+      <workItem from="1575181567332" duration="669000" />
+      <workItem from="1575271329385" duration="614000" />
+      <workItem from="1575357045095" duration="1201000" />
+      <workItem from="1575469478157" duration="238000" />
+      <workItem from="1575469777147" duration="839000" />
     </task>
     <servers />
   </component>
@@ -238,5 +264,15 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575189574471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575189574471" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575469801546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575469801546" />
   </component>
 </project>

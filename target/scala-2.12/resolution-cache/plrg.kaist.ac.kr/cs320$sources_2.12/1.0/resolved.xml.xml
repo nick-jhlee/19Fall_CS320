@@ -4,7 +4,7 @@
 		module="cs320$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20191018092426"
+		publication="20191129132018"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
