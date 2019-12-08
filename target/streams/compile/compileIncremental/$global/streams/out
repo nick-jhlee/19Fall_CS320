@@ -1,29 +1,57 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\package.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$CloV$.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$ContV$.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$ThrowV$.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$KXCFAEValue.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$CloV.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$ContV.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$NumV.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package.class, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes\cs320\hw07\package$NumV$.class)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m[naha] 	product: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\package.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\package.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.8[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.17:component from component compiler for Scala 2.12.8[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 1d0aabe2, interfacing (CompilerInterface) with Scala compiler version 2.12.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 76622ad5, interfacing (CompilerInterface) with Scala compiler version 2.12.8[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_231\lib\resources.jar;C:\Program Files\Java\jre1.8.0_231\lib\rt.jar;C:\Program Files\Java\jre1.8.0_231\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_231\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_231\lib\jce.jar;C:\Program Files\Java\jre1.8.0_231\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_231\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_231\classes;C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\target\scala-2.12\classes;C:\Users\Nick\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.1.0.jar;C:\Users\Nick\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.12.8.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 3.5704715 s[0m
+[0m[[33mwarn[0m] [0mC:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala:177: unreachable code[0m
+[0m[[33mwarn[0m] [0m    case Eq(left, right) =>[0m
+[0m[[33mwarn[0m] [0m                         ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.6278919 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	literal, accept, regex, parser2packrat.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw07\hw07_tests.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala by C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala, C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	literal, accept, regex, parser2packrat.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following member ref dependencies of C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\Homework09.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m[naha] 	C:\Users\Nick\OneDrive - kaist.ac.kr\KAIST\Courses\CS320\cs320\src\main\scala\cs320\hw09\package.scala[0m
 [0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
 [0m[[0mdebug[0m] [0m[naha] 	Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
