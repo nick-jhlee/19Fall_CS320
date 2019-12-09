@@ -228,34 +228,35 @@ package object hw09 extends Homework09 {
       case _ => (a, sto)
     }
 
-    case Fun(params, body) => (CloV(params.map(_._1), body, env), sto)
+    case Fun(params, body) =>
+      (CloV(params.map(_._1), body, env), sto)
 
     case App(func, args) =>
       val (v0, s0) = interp(func, env, sto)
       v0 match {
-        case CloV(params, body, env) =>
+        case CloV(params, body, clov_env) =>
           @scala.annotation.tailrec
-          def addEnv_multiple(retenv: Env, sto: Sto, args: List[Expr], params: List[String]): (Env, Sto) = {
-            if (args.isEmpty) (retenv, sto)
+          def addEnv_multiple(retenv: Env, retsto: Sto, args: List[Expr], p: List[String]): (Env, Sto) = {
+            if (args.isEmpty) (retenv, retsto)
             else  {
-              val (v, s) = interp(args.head, env, sto)
-              addEnv_multiple(retenv + (params.head -> v), s, args.tail, params.tail)
+              val (v, s) = interp(args.head, env, retsto)
+              addEnv_multiple(retenv + (p.head -> v), s, args.tail, p.tail)
             }
           }
 
-          val (e, s) = addEnv_multiple(Map(), s0, args, params)
+          val (e, s) = addEnv_multiple(clov_env, s0, args, params)
           interp(body, e, s)
 
         case ConstructorV(name) =>
           @scala.annotation.tailrec
-          def addVarV_multiple(retvalues: List[Value], sto: Sto, args: List[Expr]): (List[Value], Sto) = {
-            if (args.isEmpty) (retvalues, sto)
+          def addVarV_multiple(retvalues: List[Value], retsto: Sto, args: List[Expr]): (List[Value], Sto) = {
+            if (args.isEmpty) (retvalues, retsto)
             else  {
-              val (v, s) = interp(args.head, env, sto)
+              val (v, s) = interp(args.head, env, retsto)
               addVarV_multiple(retvalues ++ List(v), s, args.tail)
             }
           }
-          val (list_v, s) = addVarV_multiple(List(), sto, args)
+          val (list_v, s) = addVarV_multiple(List(), s0, args)
           (VariantV(name, list_v), s)
 
         case _ => error("Type checking error")
@@ -282,10 +283,9 @@ package object hw09 extends Homework09 {
         case VariantV(name, values) =>
           val (list_x, e) = cases.getOrElse(name, error("")) // (List[String], Expr)
           val update_env = list_x.zip(values).toMap
-          interp(e, env ++ update_env, sto)
+          interp(e, env ++ update_env, s)
         case _ => error("Type checking error")
       }
-
 
     case IfThenElse(cond, thenE, elseE) => interp(cond, env, sto) match {
       case (BoolV(true), s_true) => interp(thenE, env, s_true)
