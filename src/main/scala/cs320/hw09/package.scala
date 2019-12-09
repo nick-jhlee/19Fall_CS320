@@ -111,7 +111,7 @@ package object hw09 extends Homework09 {
 
             val name = cases.head._1
             val tuple = cases.head._2
-            val t = typeCheck(tuple._2, addVar_multiple(tyEnv, tuple._1 zip variants.getOrElse(name, notype(s"$name is a free type")) ,mutable = false))
+            val t = typeCheck(tuple._2, addVar_multiple(tyEnv, tuple._1 zip variants.getOrElse(name, notype(s"$name is a free type")), mutable = false))
             multiple_cases_type(output_type ++ List(t), cases.tail)
           }
 
