@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dcd6932-0d12-4817-9202-5cdf94932a9a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/cs320/hw07/hw07_tests.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/cs320/hw09/package.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cs320/hw09/package.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet">
@@ -155,7 +155,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4702659970000" />
+        <entry key="$PROJECT_DIR$" value="4727415351716" />
         <entry key="$PROJECT_DIR$/build.sbt" value="500825750" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="934637055" />
         <entry key="$PROJECT_DIR$/project/plugin.sbt" value="1744635920" />
@@ -223,6 +223,8 @@
       <workItem from="1575469478157" duration="238000" />
       <workItem from="1575469777147" duration="2649000" />
       <workItem from="1575613025537" duration="23088000" />
+      <workItem from="1575809536384" duration="400000" />
+      <workItem from="1575810794945" duration="9917000" />
     </task>
     <servers />
   </component>
@@ -257,9 +259,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="247" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575612995144" />
-    <state x="656" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575613574744">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="905" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1575805301891">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575805301891" />
+    <state x="1061" y="455" key="FileChooserDialogImpl" timestamp="1575809933314">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1575809933314" />
+    <state x="784" y="345" key="SettingsEditor" timestamp="1575811098196">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="784" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1575811098196" />
+    <state x="875" y="462" key="com.intellij.ide.util.TipDialog" timestamp="1575809902484">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575613574744" />
+    <state x="875" y="462" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1575809902484" />
   </component>
 </project>
